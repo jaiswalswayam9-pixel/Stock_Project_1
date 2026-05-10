@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual documents
+.virtual_documents/
+
+# Anaconda projects
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files (optional - remove this line if you want to include the db)
+# database
+
+# OS files
+.DS_Store
+Thumbs.db
