@@ -146,7 +146,7 @@ These projects were developed as part of the **Akshaya AI Internship Program**, 
 ## 📞 Connect
 
 - **GitHub**: [jaiswalswayam9-pixel](https://github.com/jaiswalswayam9-pixel)
-- **LinkedIn**: [Your Profile](https://linkedin.com)
+- **LinkedIn**: [swayam jaiswal](www.linkedin.com/in/swayam-jaiswal-b91865238)
 
 ---
 
